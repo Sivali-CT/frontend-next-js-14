@@ -33,7 +33,7 @@ export default function Navbar() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <a href="https://cms.wackywalrus.my.id/admin/auth/login" className="text-sm font-semibold leading-6 text-gray-100 bg-blue-700 px-2 py-1 rounded">
+            <a href="https://cms.chucklecheese.my.id/admin/auth/login" className="text-sm font-semibold leading-6 text-gray-100 bg-blue-700 px-2 py-1 rounded">
               Admin
             </a>
           </div>
@@ -69,7 +69,7 @@ export default function Navbar() {
                 </div>
                 <div className="py-6">
                   <a
-                    href="https://cms.wackywalrus.my.id/admin/auth/login"
+                    href="https://cms.chucklecheese.my.id/admin/auth/login"
                     className="-mx-3 block w-fit text-base font-semibold leading-7 text-gray-100 bg-blue-700 rounded px-2 py-1"
                   >
                     Admin

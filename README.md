@@ -83,3 +83,6 @@ k create secret generic frontend-dev-secret -n development \
 
 
 ```
+
+**notes:**:
+If you want to build the Next app as static pages please change the next.config.js and the Dockerfile since the nginx/default.conf already provided.
